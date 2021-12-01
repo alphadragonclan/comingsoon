@@ -572,6 +572,15 @@ a:visited {
   text-align: center;
 }
 
+.body-2 {
+  background-color: #000;
+}
+
+.section-3 {
+  margin-top: 100px;
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   .navigation-link {
     color: hsla(0, 0%, 100%, 0.52);
